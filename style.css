@@ -158,7 +158,7 @@ header{
       padding: 100px;
       text-align: center;
 }
-#list-link{
+.list-link{
     font-size: 32px;
     color: #fff;
     cursor: pointer;
